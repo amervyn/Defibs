@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LAS_Defibs/LAS_Defibs.iml" filepath="$PROJECT_DIR$/LAS_Defibs/LAS_Defibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAS_DefibsProject.iml" filepath="$PROJECT_DIR$/LAS_DefibsProject.iml" />
+    </modules>
+  </component>
+</project>
+
